@@ -1,0 +1,2 @@
+# katas
+Daily Coding Katas
